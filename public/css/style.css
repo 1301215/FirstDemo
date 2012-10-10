@@ -1,0 +1,15 @@
+@import url('bootstrap.min.css');
+
+#log {
+	height: 240px;
+	overflow-y: scroll;
+}
+
+.nickname {
+	text-align: right;
+	font-weight: bold;
+}
+
+.row {
+	margin-bottom: 10px;
+}
